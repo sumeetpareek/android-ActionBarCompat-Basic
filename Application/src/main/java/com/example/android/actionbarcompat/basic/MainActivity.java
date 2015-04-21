@@ -68,7 +68,7 @@ public class MainActivity extends ActionBarActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.menu_location:
+            case R.id.menu_refresh:
                 // Here we might start a background refresh task
                 return true;
 

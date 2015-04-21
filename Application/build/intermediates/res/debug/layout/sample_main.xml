@@ -19,4 +19,4 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:text="@string/intro_message"
-    android:gravity="center" /><!-- From: file:/Users/pareeks/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/layout/sample_main.xml -->
+    android:gravity="top" /><!-- From: file:/Users/pareeks/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/layout/sample_main.xml -->

@@ -192,7 +192,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <!-- From: file:/Users/pareeks/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/values/base-strings.xml -->
     <eat-comment/>
-    <string name="app_name">ActionBarCompat-Basic</string>
+    <string name="app_name">ActionBarCompat-Edit</string>
     <string name="intro_message">
         <![CDATA[
         
@@ -201,6 +201,8 @@
             displays action items. It covers inflating items from a menu resource, as well as adding
             an item in code. Items that are not shown as action items on the Action Bar are
             displayed in the action bar overflow.
+
+            This can be a multi line, multi paragraph string.
             
         
         ]]>
